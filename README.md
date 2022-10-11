@@ -8,3 +8,6 @@ FILE: FPC_OSX_LCL_PATCH.7z
 FIX procedure
 1. 蓋過和檔名對應的目錄的檔案，全都是OVERWRITE，無新檔。
 2. 打開LAZARUS IDE，選TOOLS-->CONFIGURE "REBUILD LAZARUS" -->勾選CLEAN ALL -->按BUILD
+
+
+註: 永遠以wincontrol.zip 的內容為準
