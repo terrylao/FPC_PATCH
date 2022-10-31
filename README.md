@@ -1,5 +1,5 @@
 # FPC_PATCH
-maxOSX IME Patch
+maxOSX IME Patch 
 FILE: FPC_OSX_LCL_PATCH.7z 
 1. lcl_interface_cocoa.zip 解決LAZARUS IDE 無法輸入中文的問題，連日文romaji 輸入法也處理。
 2. wincontrol.inc.zip and lcl.zip 加入新的EVENT 到TFORM 中，這不會影響到原有的程式。
